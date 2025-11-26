@@ -10,4 +10,4 @@ To validate the Login page using positive and negative scenarios
 Apply Decision Table Testing technique
 Execute test cases and analyze results
 
-All testing documents are compiled in a single Excel file.
+All testing documents are compiled in a single Excel file :- OrangeHRM_TestingProject.xlsx
